@@ -15,7 +15,6 @@ public class Customer {
 
     private String phoneNumber;
 
-    // Constructori
     public Customer() {}
 
     public Customer(String name, String email, String phoneNumber) {
